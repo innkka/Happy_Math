@@ -1,0 +1,28 @@
+{
+  "type": "multiply",
+  "number0": 403,
+  "number1": 174,
+  "steps": {
+    "number0_parts": [
+      3,
+      0,
+      4
+    ],
+    "number1_parts": [
+      4,
+      7,
+      1
+    ],
+    "numbers_calculation": [
+      "3+4",
+      "0+7",
+      "4+1"
+    ],
+    "numbers_calculation_results": [
+      7,
+      7,
+      5
+    ]
+  },
+  "total": 577
+}
